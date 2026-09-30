@@ -1,0 +1,26 @@
+amcl:
+  ros__parameters:
+    use_sim_time: true
+    min_particles: 500
+    max_particles: 2000
+    alpha1: 0.2
+    alpha2: 0.2
+    alpha3: 0.2
+    alpha4: 0.2
+    alpha5: 0.2
+    laser_min_range: 0.12
+    laser_max_range: 3.5
+    laser_max_beams: 60
+    odom_model_type: "diff"
+    base_frame_id: "base_footprint"
+    odom_frame_id: "odom"
+    global_frame_id: "map"
+    scan_topic: "scan"
+    set_initial_pose: true
+    initial_pose_x: 0.0
+    initial_pose_y: 0.0
+    initial_pose_a: 0.0
+    resample_interval: 1
+    transform_tolerance: 1.0
+    recovery_alpha_slow: 0.0
+    recovery_alpha_fast: 0.0
