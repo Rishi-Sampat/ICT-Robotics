@@ -1000,21 +1000,6 @@ Areas of interest:
 
 ---
 
-# License and Attribution
-
-This repository brings together project-specific robotics work, adapted components, and references to external robotics frameworks.
-
-Where external repositories or frameworks are used:
-
-1. Preserve their original licenses.
-2. Provide appropriate attribution.
-3. Do not represent upstream framework code as original work.
-4. Document project-specific modifications where appropriate.
-
-Refer to the license and attribution information included with individual project sources where applicable.
-
----
-
 # Closing
 
 **ICT-Robotics** is intended to be a continuously evolving record of robotics development across manipulation, mobile autonomy, simulation, and reinforcement learning.
